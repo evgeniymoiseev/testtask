@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="views_count">Просмотры %1$s</string>
+    <string name="likers_count">Лайки %1$s</string>
+    <string name="commentators_count">Комментаторы %1$s</string>
+    <string name="mentions_count">Отметки %1$s</string>
+    <string name="reposts_count">Репосты %1$s</string>
+    <string name="bookmarks_count">Закладки %1$s</string>
+</resources>
